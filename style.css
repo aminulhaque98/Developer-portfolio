@@ -1,3 +1,34 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.title {
+    color: orange;
+}
+
+.web {
+    size: 50px;
+    padding: 10px
+}
+
+.pic {
+    size: 40%;
+}
+
+section {
+    display: flex;
+    padding: 10px
+}
+
+.instra {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
