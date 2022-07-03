@@ -45,3 +45,19 @@ section {
 body {
     margin: 0;
 }
+
+.dream {
+    weight: 50px;
+    padding: 60px 25px;
+}
+
+.pictures {
+    display: flex;
+    width: 100%
+}
+
+.manggo {
+    background-image: linear-gradient(orange tomato);
+    text-decoration: none;
+
+}
