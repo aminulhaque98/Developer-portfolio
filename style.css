@@ -11,11 +11,14 @@ h1 {
 }
 
 .helf-weight {
-    weight: 50px
+    weight: 50px;
+    padding-left: 2%;
+
 }
 
 .helf-weight img {
     width: 100%;
+
 }
 
 section {
@@ -32,4 +35,13 @@ section {
     color: white;
     font-weight: 700;
 
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
 }
