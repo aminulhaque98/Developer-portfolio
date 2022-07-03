@@ -10,13 +10,12 @@ h1 {
     color: orange;
 }
 
-.web {
-    size: 50px;
-    padding: 10px
+.helf-weight {
+    weight: 50px
 }
 
-.pic {
-    size: 40%;
+.helf-weight img {
+    width: 100%;
 }
 
 section {
@@ -30,5 +29,7 @@ section {
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
+    color: white;
+    font-weight: 700;
 
 }
