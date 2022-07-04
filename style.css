@@ -24,7 +24,10 @@ h1 {
 
 .flexible-container {
     display: flex;
-    padding: 10px
+    padding: 40px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    backrount-position: left;
 }
 
 .instra {
@@ -64,6 +67,7 @@ body {
     padding: 15px 30px;
     color: white;
     font-weight: 700;
+    border-radius: 5px;
 
 }
 
@@ -76,8 +80,15 @@ body {
 /*3rd part*/
 .helf-width {
     width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    box-shadow: 10px 10px 40px blue;
-    padding-left: 3px;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 30px;
+    height: 12cm;
+
+}
+
+h2 {
+    font-size: 38px;
+
 }
