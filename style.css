@@ -57,7 +57,16 @@ body {
 }
 
 .manggo {
-    background-image: linear-gradient(orange tomato);
+    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
 
+}
+
+.banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
