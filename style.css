@@ -11,8 +11,9 @@ h1 {
 }
 
 .helf-weight {
-    weight: 50px;
+    width: 50%;
     padding-left: 2%;
+
 
 }
 
@@ -46,12 +47,11 @@ body {
     margin: 0;
 }
 
-/* 2nd part*/
+/* 2nd part
 
 .dream {
     weight: 50px;
-    padding: 60px 25px;
-}
+    padding: 60px 25px;} */
 
 .pictures {
     display: flex;
@@ -74,3 +74,10 @@ body {
 }
 
 /*3rd part*/
+.helf-width {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px blue;
+    padding-left: 3px;
+}
