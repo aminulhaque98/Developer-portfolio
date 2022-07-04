@@ -21,7 +21,7 @@ h1 {
 
 }
 
-section {
+.flexible-container {
     display: flex;
     padding: 10px
 }
@@ -45,6 +45,8 @@ section {
 body {
     margin: 0;
 }
+
+/* 2nd part*/
 
 .dream {
     weight: 50px;
@@ -70,3 +72,5 @@ body {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+/*3rd part*/
