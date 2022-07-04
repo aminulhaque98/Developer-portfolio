@@ -88,7 +88,21 @@ body {
 
 }
 
+.butam {
+    border-left: 8px solid green;
+}
+
 h2 {
     font-size: 38px;
 
+}
+
+.beta {
+    border-left: 8px solid orange;
+}
+
+footer {
+    text-align: center;
+    padding: 2px;
+    background-color: aqua;
 }
